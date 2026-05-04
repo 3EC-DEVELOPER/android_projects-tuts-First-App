@@ -1,4 +1,4 @@
-package com.example.helloandroid;
+package com.tec.tuts.helloandroid;
 
 import androidx.appcompat.app.AppCompatActivity;
 
